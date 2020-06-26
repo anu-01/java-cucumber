@@ -1,4 +1,4 @@
-# java-cucumber-example
+# java-cucumber
 
 A sample project for Cucumber and/or Selenium tests.
 
