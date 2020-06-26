@@ -8,12 +8,12 @@ Clone the repo:
 
 Git:
 ```
-$ git clone git@github.com:testdouble/java-cucumber-example.git
+$ git clone git@github.com:anu-01/java-cucumber-example.git
 ```
 
 Svn:
 ```
-$ svn co https://github.com/testdouble/java-cucumber-example
+$ svn co https://github.com/anu-01/java-cucumber-example
 ```
 
 Or download a ZIP of master [manually](https://github.com/testdouble/java-cucumber-example/archive/master.zip) and expand the contents someplace on your system
